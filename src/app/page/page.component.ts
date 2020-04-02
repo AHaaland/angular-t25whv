@@ -10,7 +10,7 @@ export class PageComponent implements OnInit {
     title: 'Home',
     subtitle: 'Welcome Home!',
     content: 'Some home content.',
-    image: 'assets/bg00.jpg'
+    image: 'https://cdn.jsdelivr.net/gh/AHaaland/angular-t25whv@master/src/app/page/Assets/191c7063838dff3add0caffcff6284ce.jpg'
   };
 
   constructor() { }
